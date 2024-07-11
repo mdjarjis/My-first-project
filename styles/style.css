@@ -122,9 +122,40 @@ button:hover {
 }
 .descriptiontwo{
   text-align: left;
+  margin: auto;
 }
 .one{
   margin-top: 104px;
 }
 .two{
-  margin-top: 138px;}
+  margin-top: 138px;
+  margin-right: 146px;
+}
+
+  .three{
+    margin-top: 149px;
+  }
+  .containerthree {
+    display: flex;
+    max-width: 850px;
+    margin: 0 auto;
+    max-height: 240px;
+  }
+  
+  .text-sectionthree {
+    text-align: left;
+    margin-right: 280px;
+  }
+  .skill-b{
+    font-size: 20px;
+    padding:  12px 20px ;
+    font-weight: 600;
+    background-color: #FFFFFF;
+  }
+  .image-section {
+    width: 274px;
+    height: 240px;
+  }
+  .youtube-video{
+  margin-top: 80px;
+  }
