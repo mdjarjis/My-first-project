@@ -159,3 +159,23 @@ button:hover {
   .youtube-video{
   margin-top: 80px;
   }
+  .skill1{
+    margin-top: 88px;
+    margin-right: 66px;
+    background-color: #FDF2F0;
+  }
+  .skill2{
+    margin-top: 88px;
+    margin-right: 66px;
+    background-color: EFF4FF;
+  }
+  .skill3{
+    margin-top: 88px;
+    background-color: #FCFAEB;
+  }
+  .skillcontainerfive{
+    display: flex;
+  }
+  a{
+    color: #0D1321;
+  }
