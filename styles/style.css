@@ -160,16 +160,19 @@ button:hover {
   margin-top: 80px;
   }
   .skill1{
+    padding: 40px;
     margin-top: 88px;
     margin-right: 66px;
     background-color: #FDF2F0;
   }
   .skill2{
+    padding: 40px;
     margin-top: 88px;
     margin-right: 66px;
-    background-color: EFF4FF;
+    background-color: #eff5ff;
   }
   .skill3{
+    padding: 40px;
     margin-top: 88px;
     background-color: #FCFAEB;
   }
@@ -179,3 +182,76 @@ button:hover {
   a{
     color: #0D1321;
   }
+#support {
+    background: url('../assets/handshake.jpg') no-repeat center center/cover;
+    height: 313;
+    width: 1140px;
+    margin: 0;
+    margin-top: 50px;
+}
+.support-submit{
+  margin-left: 10px;
+}
+#support .support-form {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#support .support-form input {
+    padding: 10px;
+    width: 300px;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+}
+
+#support .support-form button {
+    padding: 10px 20px;
+    color: #000000;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+footer {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer p {
+    margin-left: 70px;
+}
+
+footer .social-media img {
+    width: 30px;
+    height: auto;
+    margin-left: 10px;
+}
+.social-media{
+  margin-right: 60px;
+}
+#support{
+  padding-top : 25px;
+  padding-bottom: 45px;
+}
+.support-h1{
+  color: #ffffff;
+}
+.support-p{
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+}
+.skillcontainerfive{
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.youtube-video{
+  margin-top: 60px;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
